@@ -9,3 +9,4 @@ class Dog
 end
 
 Lassie = Dog.new
+Lassie.new = ("Lassie")
