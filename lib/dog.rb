@@ -8,5 +8,5 @@ class Dog
   end
 end
 
-Lassie = Dog.new
-Lassie.new = ("Lassie")
+lassie = Dog.new
+lassie.new = ("Lassie")
